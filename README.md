@@ -5,7 +5,6 @@
 
 Создание IDEF0-диаграммы "Пошив плюшевых медведей" в RAMUS
 
-Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 ![none](https://github.com/DenisKolgatin/Lab/blob/master/l1.png)
 
 Ссылки на доп.материалы https://github.com/DenisKolgatin/Lab/blob/master/sixq%20(1).rsf
