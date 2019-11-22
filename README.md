@@ -24,6 +24,9 @@
 ![none](https://github.com/DenisKolgatin/Lab/blob/master/fL6nJiCm49thhpXrWg4I7u1GK-P8sPYjnBHMqnYTBsAWI506EY1O-GnKY8Ge3Rzm_YCkcA3k3BRlthtt_2oFFMcaUb4gFxVLXKQz09sJGxXIWudEvrDqTLMSkbAWivabemO9ehkCoAGKYX0T5WRteUizlzgRN7lpRyVId1EG0xJJ6K5XqUHaNQLYtkm8j8TXkEU6jzpoHiwFuUymZKD-vbsu.png)
 
 ## Лабораторная 2
+Определение надсистемы (среды функционирования)
+IDEF0-диаграмма (блок А0):
+![Текст](https://github.com/DenisKolgatin/Lab/commit/b999cd2d396ed9dccb421406743e589533c095cd)
 
 ## Лабораторная 3
 
