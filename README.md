@@ -26,7 +26,7 @@
 ## Лабораторная 2
 Определение надсистемы (среды функционирования)
 IDEF0-диаграмма (блок А0):
-![Текст](https://github.com/DenisKolgatin/Lab2/blob/master/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
+![Текст](https://github.com/DenisKolgatin/Lab2/blob/master/45.png)
 IDEF0-диаграмма (блоки A1, A2, A3, A4):
 ![Текст](https://github.com/DenisKolgatin/Lab2/blob/master/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
