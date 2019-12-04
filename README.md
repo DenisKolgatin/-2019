@@ -33,7 +33,7 @@ DFD-диаграмма "Составление отчёта":
 ![Текст](https://github.com/DenisKolgatin/Sklad/blob/master/3.png)
 ![Файл диаграмы](https://github.com/DenisKolgatin/Sklad/blob/master/pdc%20(2).rsf)
 
-Описание участников автоматизируемой деятельности
+Описание участников автоматизируемой деятельности.
 Текст и рисунок диаграммы прецедентов
 ![Текст](https://github.com/DenisKolgatin/Sklad/blob/master/4.png)
 Текст:
