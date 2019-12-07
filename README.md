@@ -30,7 +30,7 @@ IDEF0-диаграмма (блок А0):
 IDEF0-диаграмма (блоки A1, A2, A3, A4):
 ![Текст](https://github.com/DenisKolgatin/Lab/blob/master/2.png)
 DFD-диаграмма "Составление отчёта":
-![Текст](https://github.com/DenisKolgatin/Sklad/blob/master/3.png)
+![Текст](https://github.com/DenisKolgatin/Lab/blob/master/3.png)
 ![Файл диаграмы](https://github.com/DenisKolgatin/Sklad/blob/master/pdc%20(2).rsf)
 
 Описание участников автоматизируемой деятельности.
