@@ -26,16 +26,16 @@
 ## Лабораторная 2
 Определение надсистемы (среды функционирования)
 IDEF0-диаграмма (блок А0):
-![Текст](https://github.com/DenisKolgatin/Sklad/blob/master/1.png)
+![Текст](https://github.com/DenisKolgatin/Lab/blob/master/1.png)
 IDEF0-диаграмма (блоки A1, A2, A3, A4):
-![Текст](https://github.com/DenisKolgatin/Sklad/blob/master/2.png)
+![Текст](https://github.com/DenisKolgatin/Lab/blob/master/2.png)
 DFD-диаграмма "Составление отчёта":
 ![Текст](https://github.com/DenisKolgatin/Sklad/blob/master/3.png)
 ![Файл диаграмы](https://github.com/DenisKolgatin/Sklad/blob/master/pdc%20(2).rsf)
 
 Описание участников автоматизируемой деятельности.
 Текст и рисунок диаграммы прецедентов
-![Текст](https://github.com/DenisKolgatin/Sklad/blob/master/4.png)
+![Текст](https://github.com/DenisKolgatin/Lab/blob/master/%D0%94%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0.png)
 Текст:
 https://github.com/DenisKolgatin/Sklad/blob/master/Text
 
