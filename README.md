@@ -41,6 +41,14 @@ https://github.com/DenisKolgatin/Sklad/blob/master/Text
 
 
 ## Лабораторная 3
+Описание хранилищ данных
+DFD-диаграмма "Составление расписания" (блок A1-03):
+![Текст](https://github.com/DenisKolgatin/Lab/blob/master/4.png)
+![Файл диаграмы](https://github.com/DenisKolgatin/Lab/blob/master/pdc%20(2).rsf)
+
+Описание взаимодействия участников автоматизируемой деятельности:
+![Рисунок](https://github.com/DenisKolgatin/Lab/blob/master/5.png)
+![Текст](https://github.com/DenisKolgatin/Lab/blob/master/TextD)
 
 ## Лабораторная 4
 
