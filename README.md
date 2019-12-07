@@ -50,6 +50,11 @@ DFD-диаграмма "Составление расписания" (блок A
 ![Рисунок](https://github.com/DenisKolgatin/Lab/blob/master/5.png)
 ![Текст](https://github.com/DenisKolgatin/Lab/blob/master/TextD)
 
+Описание участников автоматизируемой деятельности
+![Текст](https://github.com/DenisKolgatin/Lab/blob/master/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%D0%9A%D0%BE%D0%B4)
+![Текст](https://github.com/DenisKolgatin/Lab/blob/master/https://github.com/DenisKolgatin/Lab/blob/master/6.png)
+
+
 ## Лабораторная 4
 
 ## Лабораторная 5
